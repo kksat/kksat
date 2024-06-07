@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on
+I’m currently working on:
 
 - making sure that SAP applications are running smoothly on the cloud providers on RHEL
 - ansible collection to automate SAP operations, see
@@ -9,9 +9,7 @@ I’m currently working on
 
   [sap.sap_operations](https://console.redhat.com/ansible/automation-hub/repo/published/sap/sap_operations/) on AAP
 
-Ask me about SAP architecture and administration, ansible, automation, SAP on the cloud
-
-Pronouns: he/him
+Ask me about SAP architecture and administration, ansible, automation, SAP on the cloud.
 
 ### Contacts
 
